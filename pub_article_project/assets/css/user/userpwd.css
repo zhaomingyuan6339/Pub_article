@@ -1,0 +1,13 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    padding: 15px;
+    background-color: aliceblue;
+}
+
+.layui-card-body .layui-form {
+    width: 500px;
+}
